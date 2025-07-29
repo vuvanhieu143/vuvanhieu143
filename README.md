@@ -9,7 +9,7 @@
 - 💡 Passionate about **open-source education technology**
 - 🧩 Notable Projects:
   - [StudentQuiz](https://moodle.org/plugins/mod_studentquiz) – Empowering students to contribute to their own learning
-  - [Crossword Plugin](https://moodle.org/plugins/mod_crossword) – Bringing fun and engagement to Moodle courses
+  - [Crossword Plugin](https://github.com/moodleou/moodle-qtype_crossword) – Bringing fun and engagement to Moodle courses
 
 ## 🛠️ Top Skills
 ![PHP](https://img.shields.io/badge/-PHP-777bb4?style=flat-square&logo=php&logoColor=white)
