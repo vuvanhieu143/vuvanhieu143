@@ -1,34 +1,44 @@
 # Hi there, I'm Hieu Vu 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=vuvanhieu143&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/vuvanhieu143?label=Followers&style=flat-square)
-
-## 💻 About Me
-- 🚀 **Software Engineer** specializing in PHP and Javascript
-- 🎓 Active contributor to the Moodle open-source community
-- 💡 Passionate about **open-source education technology**
-- 🧩 Notable Projects:
-  - [StudentQuiz](https://moodle.org/plugins/mod_studentquiz) – Empowering students to contribute to their own learning
-  - [Crossword Plugin](https://github.com/moodleou/moodle-qtype_crossword) – Bringing fun and engagement to Moodle courses
-
-## 🛠️ Top Skills
-![PHP](https://img.shields.io/badge/-PHP-777bb4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
-![Moodle](https://img.shields.io/badge/-Moodle-F98012?style=flat-square&logo=moodle&logoColor=white)
-
-## 🌱 What I'm passionate about
-- Open-source projects for education
-- Improving digital learning experiences for everyone
-- Collaborating with global communities
-
-## ⚡ Fun Fact
-When I'm not coding, you'll find me out running 🏃‍♂️.
-
-## 📫 Connect with me
-<!-- Add your links below -->
-[![GitHub](https://img.shields.io/badge/GitHub-vuvanhieu143-181717?style=flat-square&logo=github)](https://github.com/vuvanhieu143)
-<!-- Add more social links as needed, e.g. LinkedIn, Twitter, etc. -->
+I am a **Software Engineer** specializing in PHP and JavaScript, with a deep focus on building scalable and engaging educational technology. I am an active contributor to the **Moodle** open-source community, where I work on enhancing digital learning experiences for users worldwide.
 
 ---
 
-![vuvanhieu143's GitHub stats](https://github-readme-stats.vercel.app/api?username=vuvanhieu143&show_icons=true&theme=default)
+### 🛠️ Specialized Skills
+
+- **LMS Architecture:** Expert-level knowledge of **Moodle 5.0+** architecture, including the Question Bank database and version-aware referencing systems.
+- **Backend Development:** Advanced PHP development, specializing in complex plugin logic, Unit Testing with **PostgreSQL**, and API integration.
+- **Frontend & UX:** Crafting interactive learning interfaces using **JavaScript** and modern web standards.
+- **DevOps & Tools:** Proficient in **WSL (Ubuntu)**, **PHPStorm**, and leveraging **GitHub Copilot** to optimize development workflows.
+- **Security:** Experience in supply-chain security auditing and vulnerability scanning (Trivy).
+
+---
+
+### 🚀 Notable Projects
+
+- **[StudentQuiz](https://github.com/vuvanhieu143/moodle-mod_studentquiz)** – Empowering students to collaborate and contribute to their own learning materials.
+- **[Crossword Plugin](https://github.com/vuvanhieu143/moodle-mod_crossword)** – Gamifying the Moodle experience to increase student engagement through interactive puzzles.
+- **Moodle 5.0 Core Contributions** – Specialized training and development for the latest Moodle Question Bank APIs.
+
+---
+
+### 📈 What I’m Passionate About
+
+- 🌍 **Open-Source Education:** Improving global access to high-quality digital learning tools.
+- ⚡ **Sustainable Coding:** Writing clean, maintainable, and well-documented code.
+- 🏗️ **Developer Training:** Mentoring teams on Moodle's complex internal APIs and modern PHP standards.
+
+---
+
+### 🏃 Beyond the Code
+
+When I'm not debugging the Moodle question engine, you can find me:
+- **Running:** I'm an avid runner focusing on smart, sustainable, and injury-free training.
+- 
+---
+
+### 📫 Connect with Me
+
+- **GitHub:** [@vuvanhieu143](https://github.com/vuvanhieu143)
+
+![Hieu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vuvanhieu143&show_icons=true&theme=radical)
