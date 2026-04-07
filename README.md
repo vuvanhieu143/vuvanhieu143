@@ -40,5 +40,3 @@ When I'm not debugging the Moodle question engine, you can find me:
 ### 📫 Connect with Me
 
 - **GitHub:** [@vuvanhieu143](https://github.com/vuvanhieu143)
-
-![Hieu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vuvanhieu143&show_icons=true&theme=radical)
