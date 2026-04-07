@@ -34,7 +34,7 @@ I am a **Software Engineer** specializing in PHP and JavaScript, with a deep foc
 
 When I'm not debugging the Moodle question engine, you can find me:
 - **Running:** I'm an avid runner focusing on smart, sustainable, and injury-free training.
-- 
+
 ---
 
 ### 📫 Connect with Me
