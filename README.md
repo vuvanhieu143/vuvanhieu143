@@ -1,42 +1,84 @@
-# Hi there, I'm Hieu Vu 👋
+<div align="center">
 
-I am a **Software Engineer** specializing in PHP and JavaScript, with a deep focus on building scalable and engaging educational technology. I am an active contributor to the **Moodle** open-source community, where I work on enhancing digital learning experiences for users worldwide.
+# 👋 Hi, I'm Hieu Vu Van (vuvanhieu143)
 
----
+### **PHP Developer @ NashTech | Moodle & EdTech Ecosystem Contributor**
 
-### 🛠️ Specialized Skills
-
-- **LMS Architecture:** Expert-level knowledge of **Moodle 5.0+** architecture, including the Question Bank database and version-aware referencing systems.
-- **Backend Development:** Advanced PHP development, specializing in complex plugin logic, Unit Testing with **PostgreSQL**, and API integration.
-- **Frontend & UX:** Crafting interactive learning interfaces using **JavaScript** and modern web standards.
-- **DevOps & Tools:** Proficient in **WSL (Ubuntu)**, **PHPStorm**, and leveraging **GitHub Copilot** to optimize development workflows.
-- **Security:** Experience in supply-chain security auditing and vulnerability scanning (Trivy).
+📍 Vietnam &nbsp;|&nbsp; 💼 PHP & Moodle Architecture &nbsp;|&nbsp; 🚀 Open Source Enthusiast
 
 ---
 
-### 🚀 Notable Projects
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![Moodle](https://img.shields.io/badge/Moodle-F35D00?style=for-the-badge&logo=moodle&logoColor=white)](https://moodle.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
 
-- **[StudentQuiz](https://github.com/vuvanhieu143/moodle-mod_studentquiz)** – Empowering students to collaborate and contribute to their own learning materials.
-- **[Crossword Plugin](https://github.com/vuvanhieu143/moodle-mod_crossword)** – Gamifying the Moodle experience to increase student engagement through interactive puzzles.
-- **Moodle 5.0 Core Contributions** – Specialized training and development for the latest Moodle Question Bank APIs.
-
----
-
-### 📈 What I’m Passionate About
-
-- 🌍 **Open-Source Education:** Improving global access to high-quality digital learning tools.
-- ⚡ **Sustainable Coding:** Writing clean, maintainable, and well-documented code.
-- 🏗️ **Developer Training:** Mentoring teams on Moodle's complex internal APIs and modern PHP standards.
+</div>
 
 ---
 
-### 🏃 Beyond the Code
+### 👨‍💻 About Me
 
-When I'm not debugging the Moodle question engine, you can find me:
-- **Running:** I'm an avid runner focusing on smart, sustainable, and injury-free training.
+I am a Software Developer specializing in **PHP** and enterprise **E-Learning (LMS) Architecture**. Most of my open-source work focuses on the **Moodle ecosystem**, where I build, refactor, and maintain custom question engines, plugins, filters, and core integration features.
+
+* 🔭 Currently focusing on **Moodle 4.x / 5.x+ architecture** (Question Bank, Question Engine, and plugin ecosystem compatibility).
+* 🧪 Big advocate for **clean code, PHPUnit testing, and automated CI/CD pipelines** for Moodle plugins.
+* 🤝 Active contributor to key open-source Moodle tools and institutional ecosystems (including **Open University / moodleou**, **STACK**, and **StudentQuiz**).
 
 ---
 
-### 📫 Connect with Me
+### 🛠️ Tech Stack & Skills
 
-- **GitHub:** [@vuvanhieu143](https://github.com/vuvanhieu143)
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Backend** | PHP (7.x / 8.x), Moodle Core APIs, RESTful APIs, OOP |
+| **Testing & Quality** | PHPUnit, Behat, CodeChecker (PHP_CodeSniffer), Moodle CI |
+| **Frontend** | JavaScript (AMD / ES6+), TinyMCE Integration, Mustache Templates, HTML5/CSS3 |
+| **Database** | MySQL, PostgreSQL |
+| **DevOps & Tools** | Docker, Git, GitHub Actions, Linux |
+
+---
+
+### 🌟 Open Source & Moodle Contributions
+
+I actively contribute to and maintain open-source Moodle plugins used by universities and educational institutions worldwide:
+
+#### 🎯 Question Types & Assessment Engines
+* **[maths/qtype_stack](https://github.com/maths/qtype_stack)** — Advanced computer-aided assessment system for mathematics and STEM.
+* **[moodleou/moodle-qtype_oumatrix](https://github.com/moodleou/moodle-qtype_oumatrix)** — OUMatrix matrix-style question type.
+* **[moodleou/moodle-qtype_pmatchreverse](https://github.com/moodleou/moodle-qtype_pmatchreverse)** — Pattern match reverse question type.
+* **[moodleou/moodle-qtype_crossword](https://github.com/moodleou/moodle-qtype_crossword)** — Crossword puzzle question type.
+* **[marcusgreen/moodle-qtype_wordselect](https://github.com/marcusgreen/moodle-qtype_wordselect)** — Interactive word selection question type.
+
+#### 🔌 Embed Question Suite
+* **[moodleou/moodle-filter_embedquestion](https://github.com/moodleou/moodle-filter_embedquestion)** — Filter for embedding interactive questions in Moodle content.
+* **[moodleou/moodle-tiny_embedquestion](https://github.com/moodleou/moodle-tiny_embedquestion)** — TinyMCE editor plugin for embedding questions seamlessly.
+* **[moodleou/moodle-report_embedquestion](https://github.com/moodleou/moodle-report_embedquestion)** — Reporting plugin for embedded question analytics.
+
+#### 📦 Modules & Workflow Blocks
+* **[frankrichard/moodle-mod_studentquiz](https://github.com/frankrichard/moodle-mod_studentquiz)** — Activity module enabling crowd-sourced quiz generation by students.
+* **[moodleou/moodle-block_workflow](https://github.com/moodleou/moodle-block_workflow)** — Workflow management block for structured approval processes.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="185" src="https://github-readme-stats.vercel.app/api?username=vuvanhieu143&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hieu's GitHub Stats" />
+<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuvanhieu143&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,scss" alt="Top Languages" />
+
+</div>
+
+---
+
+### 📫 Connect With Me
+
+* 🐙 **GitHub:** [@vuvanhieu143](https://github.com/vuvanhieu143)
+* 🏢 **Current Company:** NashTech
+
+<div align="center">
+  <sub>Designed with ❤️ for open-source software</sub>
+</div>
