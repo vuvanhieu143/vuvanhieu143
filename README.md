@@ -82,13 +82,6 @@ Key upstream fixes and core architectural improvements contributed to **Moodle C
 
 ### 📊 GitHub Activity & Stats
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=vuvanhieu143&show_icons=true&theme=tokyonight&hide_border=true" alt="Hieu's GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuvanhieu143&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,scss" alt="Top Languages" />
-
-<br/><br/>
-
 <a href="https://github.com/vuvanhieu143">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vuvanhieu143&theme=tokyo-night" width="100%" alt="Contribution Graph" />
 </a>
